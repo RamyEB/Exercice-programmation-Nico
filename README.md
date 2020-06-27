@@ -7,4 +7,4 @@ Le code est améliorable :
 **Pour l'améliorer :** au lieu de génerer un tableau pour chaque bibliothequeDeTest calculer directement la somme
 
 
-Le code est dans le fichier solution.js
+Le code est dans le fichier : *solution.js*
