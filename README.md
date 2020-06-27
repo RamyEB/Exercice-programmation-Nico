@@ -1,4 +1,4 @@
-Exercice de programmation : https://www.youtube.com/watch?v=HRPnaRLbBXw
+## Exercice de programmation : https://www.youtube.com/watch?v=HRPnaRLbBXw
 
 Le code est améliorable :
 
